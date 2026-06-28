@@ -7,7 +7,7 @@ https://rosssimmonds.com/
 LinkedIn
 
  LinkedIn profile — recent posts [https://www.linkedin.com/in/rosssimmonds/]
-ross-simmonds-why-b2b-brands-must-prioritize-problem-solving-content-on-reddit-and-youtube/ (summary of April 12, 2026 LinkedIn post [https://enterprisezone.cc/]
+ross-simmonds-why-b2b-brands-must-prioritize-problem-solving-content-on-reddit-and-youtube/ summary of April 12, 2026 LinkedIn post [https://enterprisezone.cc/]
 
 
 YouTube
