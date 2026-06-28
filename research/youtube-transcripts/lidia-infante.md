@@ -23,6 +23,8 @@ Key Insights:
 
 
 
+
+
 Video 2 — Headless SEO: I'm Sorry, But This Is Happening (MozCon 2023)
 
 Title: Headless SEO: I'm Sorry, But This Is Happening
@@ -44,6 +46,8 @@ Key Insights:
 -SEO is moving "omnichannel" — beyond the 10 blue links to visual search, voice, apps, and rich results.
 
 -SEOs who avoid headless will find themselves excluded from strategic decisions in modern tech stacks.
+
+
 
 
 

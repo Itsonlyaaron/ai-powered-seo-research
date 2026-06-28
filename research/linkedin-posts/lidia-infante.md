@@ -20,6 +20,8 @@ Key Insights:
 
 
 
+
+
 Post 2 — Internationalisation Is Also a Technology Problem
 
 Date: 2025 
@@ -38,6 +40,8 @@ Benchmarks exist for international tech SEO but are underused
 -practitioners should start there. Treating hreflang as a complete international SEO strategy is insufficient on its own.
 
 -True international SEO requires coordination across localisation, engineering, and product teams.
+
+
 
 
 
