@@ -1,34 +1,91 @@
-# Sources
+# Claude Prompts Used
 
-## Kevin Indig
+## 1. Expert Research
 
-### LinkedIn
+Research kevin indig.
 
-- Profile: https://www.linkedin.com/in/kevinindig/
-- LinkedIn Post 1: [https://www.linkedin.com/posts/kevinindig_all-of-my-clients-have-asked-me-about-my-activity-7331421919147114496-qH3V]
-- LinkedIn Post 2: [https://www.linkedin.com/posts/kevinindig_operationalising-topic-first-seo-in-5-steps-activity-7350975378233954305-1hpW]
 
-### YouTube
+Collect only RECENT and HIGH-QUALITY public content, prioritizing the most recent content from approximately the last 18 months.
 
-- SEO in the Age of AI – Kevin Indig on Google Overviews, E-Commerce & The Future of Search
-  https://www.youtube.com/watch?v=qujABKOAThA
+Include:
 
-- Chat With Kevin Indig | The Great Decoupling, SEO Attribution & AI-Driven Growth Strategies
-  https://www.youtube.com/watch?v=p3_P0dDspBI
+- Latest 2–3 LinkedIn posts
+- Latest 2–3 YouTube videos
+- Latest 2–3 podcast appearances
+- Notes / expert synthesis
+- Organized source list
 
-### Podcasts
+Return everything in clean Markdown.
 
-- Future of SEO in an AI-First World
-  https://www.churn.fm/episode/the-future-of-seo-in-an-ai-first-world-with-kevin-indig
+---
 
-- Chat With Kevin Indig — The Great Decoupling, SEO Attribution & AI-Driven Growth Strategies
- https://www.youtube.com/watch?v=p3_P0dDspBI
+## 2. LinkedIn Formatting
 
- 
-### Other
+Rewrite the LinkedIn posts into clean Markdown.
 
-- Kevin Indig Website
-- https://www.kevin-indig.com/
+For each post include:
 
-- Kevin Indig Newsletter
-- https://www.growth-memo.com/
+- Date
+- Topic
+- Original Link
+- Short Summary (2–3 sentences)
+- 3–4 Key Insights
+
+---
+
+## 3. YouTube Formatting
+
+Rewrite the YouTube research into Markdown.
+
+For each video include:
+
+- Title
+- Date
+- Platform
+- URL
+- Short Summary (2–3 sentences)
+- 3–4 Key Insights
+
+---
+
+## 4. Podcast Formatting
+
+Rewrite the podcast research into Markdown.
+
+For each podcast include:
+
+- Podcast Name
+- Episode Title
+- Date
+- Host
+- URL
+- Short Summary (2–3 sentences)
+- 3–4 Key Insights
+
+---
+
+## 5. Expert Notes
+
+Using the collected research, create an expert summary including:
+
+- Who is kevin indig?
+- Main Themes
+- AI SEO Principles
+- Content Strategy Lessons
+- B2B SaaS Takeaways
+- Actionable Insights
+
+Keep it concise and based only on the collected research.
+
+---
+
+## 6. Sources
+
+List every source used, grouped under:
+
+- LinkedIn
+- YouTube
+- Podcasts
+- Blogs
+- Newsletters
+- Other

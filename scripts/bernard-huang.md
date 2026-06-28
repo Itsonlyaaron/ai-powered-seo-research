@@ -2,7 +2,7 @@
 
 ## 1. Expert Research
 
-Research ross simmonds..
+Research Bernard Huang.
 
 Collect only RECENT and HIGH-QUALITY public content, prioritizing the most recent content from approximately the last 18 months.
 
@@ -67,7 +67,7 @@ For each podcast include:
 
 Using the collected research, create an expert summary including:
 
-- Who is ross simmonds?
+- Who is Bernard Huang?
 - Main Themes
 - AI SEO Principles
 - Content Strategy Lessons
