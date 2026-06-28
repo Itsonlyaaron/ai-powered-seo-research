@@ -44,6 +44,13 @@ assets/
 
 ---
 
-## Status
+## Key Findings
 
-🚧 Work in Progress
+Across all researched experts, several recurring themes emerged:
+
+- AI is transforming how search engines discover and rank content.
+- Brand authority is increasingly important for AI-generated search results.
+- High-quality, topical content consistently outperforms keyword-focused content.
+- Content distribution is a critical part of SEO success.
+- Technical SEO remains foundational even in AI-driven search environments.
+- Human expertise combined with AI tools produces the strongest content.
