@@ -26,10 +26,10 @@ Summary:
    
     Summary:
     
-    Amanda hosts her own 15-minute solo show featuring occasional guests who are proving traction with zero-click marketing efforts. The podcast serves as a companion to her consultancy and recent book, focusing on building brands on a traffic-starved web.  
+Amanda hosts her own 15-minute solo show featuring occasional guests who are proving traction with zero-click marketing efforts. The podcast serves as a companion to her consultancy and recent book, focusing on building brands on a traffic-starved web.  
      
      
-     Key Insights:
+Key Insights:
 
 Short-form, high-value audio content is highly effective for busy B2B professionals.
 
