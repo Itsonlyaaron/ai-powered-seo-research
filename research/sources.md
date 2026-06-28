@@ -5,37 +5,48 @@
 The objective of this project is to study how leading SEO professionals use Artificial Intelligence to improve content production, keyword research, topical authority, technical SEO, and organic growth for B2B SaaS companies.
 
 ---
-
 # Selected Experts
 
 | Expert | Expertise | Platforms | Reason Selected |
 |---------|-----------|-----------|-----------------|
-| Kevin Indig | SEO Strategy & AI | LinkedIn, Newsletter | Enterprise SEO strategist focusing on AI and search. |
-| Ross Simmonds | Content Marketing | LinkedIn, YouTube | B2B SaaS content marketing expert using AI workflows. |
-| Aleyda Solis | Technical SEO | LinkedIn, YouTube | International SEO consultant sharing practical SEO strategies. |
-| Eli Schwartz | Enterprise SEO | LinkedIn, Podcasts | Expert in scalable SEO and AI-assisted optimization. |
-| Nathan Gotch | SEO & AI Workflows | YouTube, Blog | Publishes practical AI-powered SEO processes. |
-| Tim Soulo | Content Strategy | YouTube, LinkedIn | Chief Marketing Officer at Ahrefs with expertise in SEO content. |
-| Matt Diggity | Affiliate SEO | YouTube | Shares SEO testing and AI-enhanced optimization techniques. |
-| Koray Tuğberk GÜBÜR | Semantic SEO | YouTube | Authority on semantic SEO and topical authority. |
-| Bernard Huang | AI SEO | LinkedIn | Focuses on AI-powered SEO strategies for businesses. |
-| Gael Breton | Authority Hacker | YouTube, Podcasts | Expert in authority sites, SEO systems, and AI workflows. |
+| Kevin Indig | AI SEO Strategy | LinkedIn, Newsletter, YouTube | Enterprise SEO strategist focused on AI-powered search, organic growth, and modern search behavior. |
+
+| Ross Simmonds | B2B SaaS Content Marketing | LinkedIn, YouTube, Newsletter | Expert in content distribution, AI-assisted content marketing, and B2B SaaS growth. |
+
+| Bernard Huang | AI SEO & Content Optimization | LinkedIn, YouTube | Co-founder of Clearscope, specializing in AI-powered SEO strategies and enterprise content optimization. |
+
+| Amanda Natividad | Zero-Click Marketing & AI Search | LinkedIn, Newsletter, Podcasts | Leading voice on zero-click marketing, AI search visibility, and brand-first content strategies. |
+
+| Lidia Infante | Technical SEO & AI Overviews | LinkedIn, YouTube, Blog | International SEO consultant focused on AI Overviews, technical SEO, and content optimization. |
+
+| Tom Critchlow | Search Strategy & Growth | Blog, Newsletter, Podcasts | Search strategist helping companies adapt to AI-driven search and evolving user behavior. |
+
+| Koray Tuğberk GÜBÜR | Semantic SEO | YouTube, Blog | Global authority on semantic SEO, topical authority, entities, and information retrieval. |
+
+| Gael Breton | Authority SEO & AI Workflows | YouTube, Podcasts | Co-founder of Authority Hacker, specializing in scalable SEO systems and AI-assisted workflows. |
+
+| Crystal Carter | Search Generative Experience | LinkedIn, YouTube, Conferences | Expert in Search Generative Experience (SGE), structured data, and AI-powered search visibility. |
+
+| Matt Diggity | Experimental SEO | YouTube, Blog | Runs SEO experiments and shares practical AI-enhanced optimization techniques. |
 
 ---
 
-## Content Collection Plan
+# Content Collection Plan
 
-For every expert, collect:
+For each expert, collect:
 
 - Recent LinkedIn posts
 - Recent YouTube videos and transcripts
 - Podcast appearances (if available)
-- Additional resources (blogs, newsletters, interviews)
+- Blog articles and newsletters
+- Conference talks or interviews (where available)
 
 ---
 
-## Expected Outcome
+# Expected Outcome
 
-- Compare how different experts use AI in SEO.
-- Identify common strategies and workflows.
-- Highlight actionable insights for B2B SaaS marketing.
+- Compare how industry leaders are adapting SEO for AI-driven search.
+- Identify recurring frameworks and workflows.
+- Document actionable AI-assisted SEO strategies.
+- Build a practical playbook for B2B SaaS content teams.
+- Highlight common themes across multiple experts rather than isolated opinions.
