@@ -9,9 +9,11 @@ What Does She Do?
 Lidia leads SEO at the enterprise SaaS level, combining technical SEO, content strategy, international expansion, and data analysis. She is also a prolific writer for publications including Search Engine Journal, Moz, and the Wix SEO Hub, and she conducts original research into the SEO industry itself — covering topics like learning habits, gender representation, and content economics.
 
 Where Does She Work?
+
 SurveyMonkey — joined January 2024.
 
 What Is Her Role?
+
 Head of SEO / Head of International SEO at SurveyMonkey. She leads the international SEO team, working alongside localisation specialists, SEOs, marketers, and product managers to turn organic search into a global revenue channel.
 
 

@@ -1,4 +1,5 @@
 LinkedIn
+
 Lidia Infante LinkedIn Profile: https://www.linkedin.com/in/lidiainfante/
 
 Post: SEO is Cross-Functional: https://www.linkedin.com/posts/lidiainfante_seo-is-inherently-crossfunctional-its-a-activity-7293057937143463936-u8pl
